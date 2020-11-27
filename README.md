@@ -10,5 +10,5 @@ username-admin  password=admin(For Admin Login)
 
 username-abinashtripathy116@gmail.com password-123(For User Login)
 
-I have used Mysql,Jsp,Springboot.
+I have used Mysql,Jsp,Springboot and Spring Security
 
